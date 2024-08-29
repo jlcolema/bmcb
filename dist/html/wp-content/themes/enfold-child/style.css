@@ -1,0 +1,115 @@
+/*
+Theme Name: Enfold Child
+Description: A <a href='http://codex.wordpress.org/Child_Themes'>Child Theme</a> for the Enfold Wordpress Theme. If you plan to do a lot of file modifications we recommend to use this Theme instead of the original Theme. Updating wil be much easier then.
+Version: 1.0
+Author: Kriesi
+Author URI: http://www.kriesi.at
+Template: enfold
+*/
+
+/*
+*********************************
+CORNELL UNIVERSITY COLOR PALETTE
+Downloaded from brand.cornell.edu
+*********************************
+
+Cornell Red:        #b31b1b
+Black:              #222222
+White:              #ffffff
+Light Gray:         #f7f7f7
+Link Color:         #3787b0
+Green:              #6eb43f
+Orange:             #f8981d
+Bright Red:         #ef4035
+Navy Blue:          #073949
+Royal Blue:         #0068ac
+Light Blue:         #89cce2
+Light Green:        #c9d6a5
+Dark Brown:         #a2998b
+Light Brown/Beige:  #d8d2c9
+Dark Khaki:         #9fad9f
+
+*/
+
+/*Add your own styles here:*/
+
+#top form {
+    font-size: 14px;
+}
+
+.main_color b {
+	color: #000000;
+}
+
+.widgettitle {
+ font-size: 16px;
+}
+.textwidget {
+ font-size: 13px;
+ line-height: 1.7;
+}
+
+/* ensure buttons are full width */
+#top .main_color .avia-color-theme-color {
+    width: 100%;
+}
+
+.av-main-nav-wrap ul#avia-menu {
+    display: inline-flex;
+    left: 50%; 
+    position: relative;
+    transform: translate(-50%);
+    width: auto !important;
+}
+h4 {
+	color: #b31b1b;
+	padding-bottom: 10px;
+}
+h3 {
+	color: #b31b1b;
+	padding-bottom: 10px;
+}
+.news-headline {
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+.news-time {
+	display: none;
+}
+.news-thumb {
+	width: 80px;
+	height: 80px;
+}
+.news-thumb {
+	width: 80px;
+	height: 80px;
+}
+.news-thumb img {
+	width: 78px;
+	height: 78px;
+}
+
+/* PODS template CSS */
+#student_wrapper {
+	min-height: 60px;
+	clear: both;
+}
+
+#member_wrapper {
+	min-height: 120px;
+	clear: both;
+}
+#member_photo {
+	float: left;
+}
+#member_photo img {
+	
+	border: 1px solid #DDD;
+	margin-top: 6px;
+}
+#member_info {
+	margin-left: 120px;
+	line-height: 1.4em;
+	padding-left: 12px;
+	margin-bottom: 24px;
+}

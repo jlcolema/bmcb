@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Caldera Easy Pods\n"
+"POT-Creation-Date: 2015-02-02 10:39+0200\n"
+"PO-Revision-Date: 2015-02-02 10:40+0200\n"
+"Last-Translator: David Cramer <david@digilab.co.za>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/easy-pods.php:270
+msgid "Required"
+msgstr ""
+
+#: ../classes/widget.php:21 ../includes/admin.php:18
+#: ../includes/settings.php:213 ../includes/settings.php:412
+#: ../includes/templates/licensing.php:32
+msgid "Caldera Easy Pods"
+msgstr ""
+
+#: ../classes/widget.php:102
+msgid "Title"
+msgstr ""
+
+#: ../classes/widget.php:107 ../includes/templates/search-panel.php:99
+msgid "Easy Pod"
+msgstr ""
+
+#: ../classes/widget.php:125
+msgid ""
+"Override the number of items to return. Leave empty to used saved value."
+msgstr ""
+
+#: ../classes/widget.php:127 ../includes/templates/advanced-panel.php:14
+msgid "Limit"
+msgstr ""
+
+#: ../includes/admin.php:19
+msgid "Create Easy Pod"
+msgstr ""
+
+#: ../includes/admin.php:19
+msgid "New Easy Pod"
+msgstr ""
+
+#: ../includes/admin.php:19
+msgid "Add New"
+msgstr ""
+
+#: ../includes/admin.php:23 ../includes/admin.php:28
+msgid "Licensing Page"
+msgstr ""
+
+#: ../includes/admin.php:23
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/admin.php:28 ../includes/settings.php:429
+#: ../includes/settings.php:430 ../includes/templates/licensing.php:33
+msgid "Licensing"
+msgstr ""
+
+#: ../includes/admin.php:46
+msgid "You dont have any Caldera Easy Pods yet."
+msgstr ""
+
+#: ../includes/admin.php:57 ../includes/admin.php:141
+#: ../includes/templates/general-settings.php:29
+msgid "Pod"
+msgstr ""
+
+#: ../includes/admin.php:59 ../includes/templates/general-settings.php:41
+#: ../includes/templates/general-settings.php:56
+#: ../includes/templates/search-panel.php:44
+msgid "Template"
+msgstr ""
+
+#: ../includes/admin.php:65
+msgid "Edit"
+msgstr ""
+
+#: ../includes/admin.php:66
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin.php:69
+msgid "Confirm Delete"
+msgstr ""
+
+#: ../includes/admin.php:70
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/admin.php:109
+msgid "Loading Easy Pod"
+msgstr ""
+
+#: ../includes/admin.php:125
+msgid "Sorry, something went wrong. Try again."
+msgstr ""
+
+#: ../includes/admin.php:133
+msgid "Name"
+msgstr ""
+
+#: ../includes/admin.php:137 ../includes/templates/general-settings.php:23
+msgid "Slug"
+msgstr ""
+
+#: ../includes/admin.php:155
+msgid "Purchase Caldera Easy Pods"
+msgstr ""
+
+#: ../includes/admin.php:156
+msgid "purchase a license in our store"
+msgstr ""
+
+#: ../includes/insert_shortcode.php:17
+msgid "Insert Easy Pod"
+msgstr ""
+
+#: ../includes/insert_shortcode.php:32
+msgid "Search Form Enabled"
+msgstr ""
+
+#: ../includes/insert_shortcode.php:43
+msgid "You don't have any Caldera Easy Pods to insert."
+msgstr ""
+
+#: ../includes/insert_shortcode.php:51
+msgid "Insert Selected"
+msgstr ""
+
+#: ../includes/insert_shortcode.php:51
+msgid ""
+"Note: If you insert an Easy Pod that is bound to a search form, it will use "
+"the Caldera Forms shortcode."
+msgstr ""
+
+#: ../includes/insert_shortcode.php:53
+msgid "Close"
+msgstr ""
+
+#: ../includes/settings.php:117
+msgid "Invalid Easy Pod"
+msgstr ""
+
+#: ../includes/settings.php:155
+msgid "Invalid form selection or form removed."
+msgstr ""
+
+#: ../includes/settings.php:197
+msgid "Caldera Easy Pods requires Pods to be installed and activated."
+msgstr ""
+
+#: ../includes/settings.php:212
+msgid "Add Easy Pod"
+msgstr ""
+
+#: ../includes/settings.php:413
+msgid "Easy Pods"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:19
+msgid "Paginate"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:22
+msgid "No Pagination"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:24
+msgid "Simple"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:25
+#: ../includes/templates/main-ui.php:31 ../includes/templates/main-ui.php:86
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:30
+msgid "Paginate Load Class"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:32
+msgid "CSS Class name to apply to template wrapper on pagination."
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:36
+msgid "No Results Text"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:42
+msgid "Order By"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:45
+#: ../includes/templates/query-panel.php:41
+msgid "Fields"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:52
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:53
+msgid "Descending"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:59
+msgid "Cache Type"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:62
+msgid "Disable Caching"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:63
+msgid "Object Cache"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:64
+msgid "Transient"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:65
+msgid "Site Transient"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:70
+msgid "Cache Expiration"
+msgstr ""
+
+#: ../includes/templates/advanced-panel.php:71
+msgid "Seconds"
+msgstr ""
+
+#: ../includes/templates/general-settings.php:18
+msgid "Query Name"
+msgstr ""
+
+#: ../includes/templates/general-settings.php:36
+#: ../includes/templates/search-panel.php:33
+msgid "Reload Fields"
+msgstr ""
+
+#: ../includes/templates/general-settings.php:44
+#: ../includes/templates/general-settings.php:59
+msgid "Custom Template"
+msgstr ""
+
+#: ../includes/templates/general-settings.php:51
+#: ../includes/templates/general-settings.php:66
+msgid "Be sure to include the custom template between the Shortcode Tags."
+msgstr ""
+
+#: ../includes/templates/layout-panel.php:14
+msgid "Add Row"
+msgstr ""
+
+#: ../includes/templates/layout-panel.php:15
+#: ../includes/templates/layout-panel.php:26
+msgid "Remove this row?"
+msgstr ""
+
+#: ../includes/templates/layout-panel.php:16
+msgid "Update Display Field"
+msgstr ""
+
+#: ../includes/templates/layout-panel.php:16
+msgid "Insert Display Field"
+msgstr ""
+
+#: ../includes/templates/layout-panel.php:16
+msgid "Display Field"
+msgstr ""
+
+#: ../includes/templates/licensing.php:19
+msgid "Activation"
+msgstr ""
+
+#: ../includes/templates/licensing.php:20
+msgid "Activate Code"
+msgstr ""
+
+#: ../includes/templates/licensing.php:22
+msgid "Deactivation"
+msgstr ""
+
+#: ../includes/templates/licensing.php:23
+msgid "Deactivate Code"
+msgstr ""
+
+#: ../includes/templates/licensing.php:35
+msgid "Back To Main Easy Pods Page"
+msgstr ""
+
+#: ../includes/templates/licensing.php:45
+msgid "License Key"
+msgstr ""
+
+#: ../includes/templates/licensing.php:49
+msgid "Enter your license key"
+msgstr ""
+
+#: ../includes/templates/licensing.php:57
+msgid "Your license is active"
+msgstr ""
+
+#: ../includes/templates/licensing.php:65
+msgid "Your license will expire on: "
+msgstr ""
+
+#: ../includes/templates/main-ui.php:16
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:20 ../includes/templates/main-ui.php:59
+msgid "General"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:27 ../includes/templates/main-ui.php:68
+msgid "Query Builder"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:29 ../includes/templates/main-ui.php:106
+#: ../includes/templates/search-panel.php:17
+#: ../includes/templates/search-panel.php:79
+msgid "Search Form"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:33 ../includes/templates/main-ui.php:95
+msgid "Find Params"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:35
+msgid "Effective SQL"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:59
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:68
+msgid "Add Query Filters"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:77
+msgid "Effective SQL query"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:77
+msgid "SQL"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:86
+msgid "Additional Settings"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:95
+msgid "Pods Find Param Reference"
+msgstr ""
+
+#: ../includes/templates/main-ui.php:106
+msgid "Caldera Forms"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:12
+msgid "Add Filter Group"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:18
+msgid "or"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:29
+msgid "and"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:35
+msgid "Taxonomies"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:79
+msgid "When enabled, filter is ignored if the value is not available."
+msgstr ""
+
+#: ../includes/templates/query-panel.php:79
+msgid "Optional"
+msgstr ""
+
+#: ../includes/templates/query-panel.php:89
+msgid "Add Filter Line"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:14
+msgid ""
+"Selecting a Caldera Form below will override the form's functality and turn "
+"it into a search form using the Caldera Easy Pods query elements."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:23
+msgid "You don't have any Caldera Forms"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:25
+msgid "Search Disabled"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:34
+msgid ""
+"If you've made changes to the form and fields are not showing, click reload "
+"fields to fetch the changes"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:57
+msgid "Live Search"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:58
+msgid "Search while typing or change."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:63
+msgid "Run search on page load."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:68
+msgid "Results Class"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:70
+msgid "Custom CSS class names for results wrapper"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:74
+msgid "Output Target"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:76
+msgid ""
+"Custom jQuery selector or Javascript Function name for search results "
+"placement."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:79
+msgid "Form Fields"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:81
+msgid ""
+"Use these tags in the query builder to use the result of the from field to "
+"be the value for that part of the query."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:82
+msgid ""
+"The name of the tag corresponds to the name of the field in your Caldera "
+"Form. To add a new tag, simply add a new field to your Caldera Form."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:91
+msgid "Override field options with results from"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:91
+msgid "Override field options"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:123
+msgid "with the value from: "
+msgstr ""
+
+#: ../includes/templates/search-panel.php:131
+msgid "and the label from: "
+msgstr ""
+
+#: ../includes/templates/search-panel.php:145
+msgid "Input Field"
+msgstr ""
+
+#: ../includes/templates/search-panel.php:150
+msgid ""
+"For fields that have preset options, such as dropdowns and checkbox fields, "
+"the options can be set in one of three ways. The options may be manually set "
+"in the Caldera Forms editor, or they can be automatically populated with all "
+"items in a post type, or taxonomy using the Caldera Forms Editor. You may "
+"also select another Caldera Easy Pod here to use the results of that query "
+"as the options."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:155
+msgid "Search features requires the Free Caldera Forms."
+msgstr ""
+
+#: ../includes/templates/search-panel.php:156
+msgid "Vew Details."
+msgstr ""
+
+#: ../includes/templates/sql-preview.php:12
+msgid "Disable Pretty Format"
+msgstr ""
+
+#: ../plugincore.php:41
+msgid "Caldera Easy Pods Requires Pods 2.5.1 or later."
+msgstr ""

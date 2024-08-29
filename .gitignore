@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/html/wp-content/uploads/
+dev/backup/
+dev/design/
+dev/documents/
+dev/ssl/
+wp-config*
